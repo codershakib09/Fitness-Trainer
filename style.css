@@ -1,29 +1,327 @@
-< !DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
-rel="stylesheet"
-/><link rel="stylesheet" href="style.css" /><style>@import url("https://fonts.cdnfonts.com/css/miama");
-</style><title>Gym Training Website</title></head><body>< !--========HEADER SECTION START HERE=====--><header class="header"><div class="container"><nav class="navber"><h3 class="logo">Fitness</h3><ul><li><button class="nav-btn"><a href="">Home</a></button></li><li><a href="">Service</a></li><li><a href="">Contact</a></li><li><a href="">About</a></li></ul><div class="menu"><i class="bx bx-menu"></i></div></nav><div class="hero-section"><div class="hero-content"><div class="content"><h1>Get body in <br /><span class="style">shape</span>& stay <br />healthy </h1><p class="p-tag">A huge selection of health and fitness content,
-healthy recipes <br />and transformation stories to help you get fit and stay fit ! </p><button class="btn">Join Club Now !</button><button class="content-btn2">Download App</button></div></div><div class="hero-img"><img src="images/Images 2.png" alt="" /><div class="video-tutorial"><span class="doted">.</span><div><h3>350+</h3><p class="p-tag">Video tutorial</p></div></div><div id="workout"><h3>500+</h3><p class="p-tag">Free Workout Videos</p></div></div></div></div></header>< !--============START MAIN SECTION=============--><main>< !--=====HABITS SECTION======--><section class="habits-container"><div class="container"><div class="habits-child"><h2>Change Your Habits</h2><p class="p-tag center">We believe fitness should be accessible to everyone,
-everywhere,
-regardless of income or access to a gym. </p></div><div class="habits-section"><div class="habbits-img"><img src="images/image 3.png" alt="" /><h4>Movement</h4><p class="p-tag center">We believe fitness should be accessible to everyone </p></div><div class="habbits-img"><img src="images/image 2.png" alt="" /><h4>Movement</h4><p class="p-tag center">We believe fitness should be accessible to everyone </p></div><div class="habbits-img"><img src="images/image 4.png" alt="" /><h4>Movement</h4><p class="p-tag center">We believe fitness should be accessible to everyone </p></div><div class="habbits-img"><img src="images/image 5.png" alt="" /><h4>Movement</h4><p class="p-tag center">We believe fitness should be accessible to everyone </p></div></div></div></section>< !--==========RUN SECTION======--><section class="run-container"><div class="container"><div class="run-parent"><div class="run-child"><h3>Run an Extra <br />Mile Easily </h3><p class="p-tag">We believe fitness should be accessible to everyone,
-everywhere,
-regardless of income or access to a gym. With hundreds of professional workouts. </p><button class="btn">Join Now</button></div><div class="run-img"><img src="images/run.jpg" alt="" /></div></div></div></section>< !--==========TRAINING SECTION=======-->< !--===========BMI SECTION============--><section><div class="container"><div class="bmi-container"><h3>BMI Calculator</h3><p class="p-tag">We believe fitness should be accessible to everyone,
-everywhere,
-regardless of income or <br />access to a gym. </p></div></div></section>< !--=========Calculator Chart=========--><section class="Calculator-container"><div class="container"><div class="bmi-calculate"><div class="calculator"><h4>BMI Calculator Chart</h4><table><tr><th class="head">BMI</th><th class="head">Weight Status</th></tr><tr><td>Below 18.5</td><td>Underweight</td></tr><tr><td>18.5 - 24.9</td><td>Healthy</td></tr><tr><td>25.0 - 29.9</td><td>Overweight</td></tr><tr><td>30.0 - and Above</td><td>Obese</td></tr></table></div><div class="calculate"><h4>Calculate your BMI</h4><p class="p-tag">We believe fitness should be accessible to everyone,
-everywhere,
-regardless of income or access to a gym. </p><form class="calculate-bmi"><input type="number" placeholder="Height/cm" /><input type="number" placeholder="Weight/kg" /><input type="number" placeholder="Age" /><select name="" id="" aria-placeholder="Sex"><option value="">Sex</option><option value="Male">Male</option><option value="Female">Female</option></select><select name="" id="activity-factor"><option value="">Select an activity factor</option><option value="">Activity factor-01</option><option value="">Activity factor-02</option><option value="">Activity factor-03</option></select><button class="btn">Calculate</button></form></div></div></div></section><section><div class="container"><div class="fitness-goals-container"><div class="fitness-goals"><h3>REACH YOUR FITNESS GOALS</h3></div><div class="fitness-goals-card"><div class="card"><h3>WELL-BEING</h3><hr /><p>In the gym,
-individuals work on building muscle and strength through bench presses,
-and deadlifts. Utilizing equipment such as dumbbells,
-barbells,
-they focus on improving their fitness and endurance. </p><a href="">Read More..</a></div><div class="card"><h3>ATHLETIC</h3><hr /><p>In the gym,
-individuals work on building muscle and strength through bench presses,
-and deadlifts. Utilizing equipment such as dumbbells,
-barbells,
-they focus on improving their fitness and endurance. </p><a href="">Read More..</a></div><div class="card"><h3>STRONGER</h3><hr /><p>In the gym,
-individuals work on building muscle and strength through bench presses,
-and deadlifts. Utilizing equipment such as dumbbells,
-barbells,
-they focus on improving their fitness and endurance. </p><a href="">Read More..</a></div></div><button class="card-btn">JOIN OUR COMMUNITY</button></div></div></section>< !--=========Meet Our Team Section=========--><section class="team"><div class="container"><div class="team-content"><h3>Meet Our Team</h3><p class="p-tag center">We believe fitness should be accessible to everyone,
-everywhere,
-regardless of income or <br />access to a gym. </p></div><div class="team-container">< !-- <div class="grid-1">--><div class="row"><img src="images/trainer1.png" alt="" /><div class="trainer-name"><h5>Jerome Bell</h5><p>Trainer</p></div></div><div class="row"><img src="images/trainer2.png" alt="" /><div class="trainer-name"><h5>Cameron Willi</h5><p>Trainer</p></div></div><div class="row"><img src="images/trainer3.png" alt="" /><div class="trainer-name"><h5>Darrell Steward</h5><p>Trainer</p></div></div>< !-- hgghfgg --><div class="row"><img src="images/trainer4.png" alt="" /><div class="trainer-name"><h5>Dianne Russell</h5><p>Trainer</p></div></div><div class="row"><img src="images/trainer5.png" alt="" /><div class="trainer-name"><h5>Cody Fisher</h5><p>Trainer</p></div></div><div class="row"><img src="images/trainer6.png" alt="" /><div class="trainer-name"><h5>Theresa Webb</h5><p>Trainer</p></div></div>< !-- </div>-->< !-- <div class="grid-2">-->< !-- </div>--></div></div></section></main><footer class="footer"><div class="container"><div class="footer-container"><div class="footer-logo"><h3>Fitness</h3><p class="p-tag">We believe fitness should be accessible to everyone,
-everywhere,
-regardless of income or access to a gym. <br />With hundreds of professional workouts. </p></div><div class="footer-link"><h4>Get Started</h4><ul class="started"><li><a href="">Service</a></li><li><a href="">Contact Us</a></li><li><a href="">Affiliate Program</a></li><li><a href="">About Us</a></li></ul></div><div class="footer-link"><h4>Get Started</h4><ul class="started"><li><a href="">Fitness</a></li><li><a href="">Platform</a></li><li><a href="">Affiliate Program</a></li><li><a href="">About Us</a></li></ul></div></div><div class="hr"><hr /><p>All right reserved @Fitness 2024</p></div></div></footer></body></html>
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("https://fonts.cdnfonts.com/css/miama");
+
+.work-sans- {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+body {
+    background: rgb(0, 0, 0);
+
+}
+
+/* ===shared tag===== */
+.btn {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: center;
+    border: none;
+    border-radius: 42px;
+    padding: 16px 40px 16px 40px;
+    background: rgb(230, 83, 60);
+    transition: 0.9s;
+}
+
+
+.content-btn2:hover {
+    background: rgb(60, 219, 220);
+    color: rgb(0, 0, 0);
+}
+
+.btn:hover {
+    background: rgb(60, 219, 220);
+    color: rgb(0, 0, 0);
+}
+
+.center {
+    text-align: center;
+}
+
+.p-tag {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.header {
+    background: linear-gradient(180.00deg, rgb(17, 17, 17), rgba(119, 119, 119, 0) 100%);
+}
+
+.navber {
+    display: flex;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 57px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.menu {
+    display: none;
+    size: 60px;
+}
+
+/* .menu i {
+  color: rgb(255, 255, 255);
+} */
+
+.navber ul {
+    list-style: none;
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 39px;
+    margin: 0 10px;
+    align-items: center;
+}
+
+.nav-btn {
+    border: none;
+    border-radius: 46px;
+    padding: 8px 20px 8px 20px;
+    background: rgb(230, 83, 60);
+}
+
+.navber a {
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 0px 20px 0px 20px;
+    text-decoration: none;
+}
+
+.logo {
+    color: rgb(230, 83, 60);
+    font-size: 2.2rem;
+    font-weight: 900;
+    text-align: left;
+}
+
+.hero-section {
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    gap: 170px;
+
+}
+
+.hero-content {
+    max-width: 599.05px;
+    height: 440px;
+    margin-top: 97px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content h1 {
+    color: rgb(255, 255, 255);
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+.style {
+    font-family: 'Miama', sans-serif;
+    line-height: 5px;
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.content p {
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+
+.content-btn2 {
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 16px 40px 16px 40px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 42px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 14px;
+    transition: 0.9s;
+}
+
+.hero-img {
+    max-width: 349px;
+    height: 580px;
+    position: relative;
+
+}
+
+.hero-img img {
+    max-width: 100%;
+}
+
+.video-tutorial {
+    position: absolute;
+    width: 190px;
+    height: 96px;
+    left: -100px;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    box-sizing: border-box;
+    border: 0.76px solid rgba(255, 255, 255, 0.1);
+    border-radius: 9.07px;
+    backdrop-filter: blur(15.12px);
+    background: rgba(48, 48, 48, 0.54);
+    padding: 1rem;
+}
+
+.video-tutorial h3 {
+    color: rgb(255, 255, 255);
+    font-size: 2.2rem;
+    font-weight: 900;
+    margin-bottom: 5px;
+}
+
+.doted {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: rgb(230, 83, 60);
+}
+
+#workout {
+    position: absolute;
+    width: 190px;
+    height: 98px;
+    left: 220px;
+    top: 120px;
+    border: 0.76px solid rgba(255, 255, 255, 0.1);
+    border-radius: 9.07px;
+    backdrop-filter: blur(15.12px);
+    background: rgba(48, 48, 48, 0.54);
+    padding: 1rem;
+}
+
+#workout h3 {
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+/* START-RESPONSIVE */
+
+@media screen and (max-width: 576px) {
+
+
+    .p-tag {
+        font-size: 1rem;
+    }
+
+    .header {
+        padding: 0 30px;
+    }
+
+    ul li {
+        display: none;
+    }
+
+    .navber {
+        max-width: 100%;
+    }
+
+    .menu {
+        color: white;
+        font-size: 20px;
+        display: block;
+    }
+
+    .container {
+        max-width: 100%;
+        padding: 0;
+
+    }
+
+    .hero-section {
+        flex-direction: column;
+        max-width: 100%;
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .hero-content {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    .content h1 {
+        margin-top: 10px;
+    }
+
+    .style {
+        font-size: 5rem;
+    }
+
+    .btn,
+    .content-btn2 {
+        font-size: .9rem;
+        /* padding: 6px 20px 6px 20px; */
+    }
+
+    .btn {
+        margin-right: 20px;
+    }
+
+    .content {
+        max-width: 100%;
+        /* padding-left: 20px; */
+    }
+
+    .hero-img {
+        max-width: 100%;
+    }
+
+    .hero-img img {
+        width: 100%;
+    }
+
+    .video-tutorial {
+        position: absolute;
+        width: 190px;
+        height: 96px;
+        left: 20px;
+        top: 420px;
+    }
+
+    #workout {
+        position: absolute;
+        width: 180px;
+        height: 98px;
+        left: 320px;
+        top: 90px;
+
+    }
+}
